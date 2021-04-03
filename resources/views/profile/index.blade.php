@@ -266,7 +266,7 @@
 						</div>
 						<div class="info">
 							<div class="title">
-								<a href="#">{{$staff->name}}</a>
+								<a href="#">{{$staff->name}}AAAA</a>
 								<span><h5>({{ $staff->position['name']}})</h5></span>
 							</div>
 							<div class="desc pad-top-5">
